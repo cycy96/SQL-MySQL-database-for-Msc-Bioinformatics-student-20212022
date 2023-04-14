@@ -24,6 +24,8 @@ INSERT INTO student(matric_id, s_name, age, gender, race, country, city) VALUES(
 INSERT INTO student(matric_id, s_name, age, gender, race, country, city) VALUES('S2100766', 'Tan Min Hui', 28, 'F','Chinese', 'Malaysia', 'Kuala Lumpur');
 INSERT INTO student(matric_id, s_name, age, gender, race, country, city) VALUES('S2121628', 'Nurhafizah Zalani', 27, 'F','Malay', 'Malaysia', 'Kuala Lumpur');
 
+-- Additional practice --
+
 DROP table student;
 
 select s_name, age from student;
