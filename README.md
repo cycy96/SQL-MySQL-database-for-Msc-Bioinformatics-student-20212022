@@ -1,4 +1,4 @@
-# SQL-MySQL-database-for-Msc-Bioinformatics-student-20212022
+# SQL/MySQL database for Msc Bioinformatics student 2021/2022
 
 Student Database
 
