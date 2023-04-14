@@ -23,4 +23,4 @@ Create a database contain table student, student table will content the followin
 
 # Work Progress
 MySQL :: MySQL Workbench
-![image](https://user-images.githubusercontent.com/127811480/231976120-0b1e53ba-ea33-4e70-83c5-17fa4edfbf40.png)
+![image](https://user-images.githubusercontent.com/127811480/231977701-9c0c1ea1-9c5d-41ec-acf4-0b02f587c6f3.png)
