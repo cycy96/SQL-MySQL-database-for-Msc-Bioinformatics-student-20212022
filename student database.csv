@@ -1,0 +1,8 @@
+p_no,matric_id,s_name,age,gender,race,country,city
+1,S2111011,"Muhammad Fauzan Zainudin",32,M,Malay,Malaysia,"Kuala Lumpur"
+2,S2119803,"Ziwei Fang",30,F,Chinese,China,NULL
+3,S2123100,"Hui Lin",29,F,Chinese,China,NULL
+4,S2124600,"Yu Xian Yap",24,F,Chinese,Malaysia,"Johor Bahru"
+5,S2108076,"Leong Chee Yan",27,F,Chinese,Malaysia,Ipoh
+6,S2100766,"Tan Min Hui",38,F,Chinese,Malaysia,"Kuala Lumpur"
+7,S2121628,"Nurhafizah Zalani",27,F,Malay,Malaysia,"Kuala Lumpur"
