@@ -26,6 +26,8 @@ INSERT INTO student VALUES(7, 'S2121628', 'Nurhafizah Zalani', 27, 'F','Malay', 
 
 DROP tables student;
 
+-- Additional practices --
+
 select s_name, age from student;
 
 select * from student where age = 30;
