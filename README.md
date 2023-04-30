@@ -13,13 +13,13 @@ Create a database contain table student, student table will content the followin
 🔸country
 🔸city
 
-# Learning Outcomes:
-🔸Create databases and tables
-🔸Modify existing tables 
-🔸Enter data in tables
-🔸Read data in tables
-🔸Modify existing data in tables
-🔸Delete data from tables
+# Learning Outcomes
+🔸Create databases and tables <br>
+🔸Modify existing tables <br>
+🔸Enter data in tables <br>
+🔸Read data in tables <br>
+🔸Modify existing data in tables <br>
+🔸Delete data from tables <br>
 
 # Work Progress
 MySQL :: MySQL Workbench
