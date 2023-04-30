@@ -3,7 +3,7 @@
 Student Database
 
 # Overview
-Create a database contain table student, student table will content the following attributes:
+Create a database contain table student, student table will content the following attributes: <br>
 🔸number
 🔸matric ID
 🔸name
